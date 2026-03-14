@@ -1,0 +1,8 @@
+Chinese traditional ink wash watercolor game UI asset, light and warm earthy color palette inside the ornament, high quality game art, clean rendering, 2D illustration.
+
+Chinese traditional ink wash watercolor game UI asset, decorative square frame for a pet fragment indicator, 128x128 pixels.
+ONLY draw the four corner ornaments and a few short broken edge strokes — the entire center area and most of each side must remain empty so the pet portrait beneath can show through.
+Each corner ornament is a chipped or cracked warm brown crystal or polished stone piece with thin gold filigree accent lines, subtle soft glow on the stone pieces, cute ink wash texture.
+The pieces and glow should be rich warm browns with hints of caramel and chestnut, clearly brighter than the background.
+CRITICAL BACKGROUND REQUIREMENT: the background outside the brown stone and gold strokes MUST be a perfectly flat solid pure black color #000000 with NO paper texture, NO gradient, NO vignette, NO pattern, just solid black; do NOT paint cream or ivory paper, do NOT add checkerboard or noise.
+Final image: square 1:1 composition with decorative corners and broken edges centered on a solid pure #000000 background, no text, no characters; this will later be converted to a transparent PNG by removing the black background based on brightness.

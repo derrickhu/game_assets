@@ -1,0 +1,11 @@
+Chinese traditional ink wash watercolor game UI asset, light neutral gray and white color palette inside the ornament, high quality game art, clean rendering, 2D illustration.
+
+Chinese traditional ink wash watercolor game UI asset, decorative square frame for a pet fragment indicator, 128x128 pixels.
+ONLY draw the four corner ornaments and a few short broken edge strokes — the entire center area and most of each side should remain mostly empty so the pet portrait beneath can show through.
+However, in the bottom-right quadrant, create a much larger cluster of chipped, cracked, and broken pale gray-and-white crystal shards with thin gold filigree accent lines.
+This cluster must clearly feel "incomplete" and "damaged": irregular silhouette, missing chunks, visible cracks and fracture lines, some shards floating or offset, and uneven thickness.
+The bottom-right gray crystal mass should extend diagonally into the center and roughly cover one third of the image area, with jagged, NON-rectangular edges, irregularly blocking the central region.
+It is allowed (and encouraged) that some gray crystal shards from other corners extend inward and partially overlap the center as well, so the overall occlusion feels organic and uneven, not like a perfect rectangle.
+The crystal pieces and glow should be bright soft grays and whites with subtle warm highlights, clearly brighter than the background, and stylistically consistent with the existing teal, red, blue, yellow, and brown crystal frames.
+CRITICAL BACKGROUND REQUIREMENT: the background outside the crystals and gold strokes MUST be a perfectly flat solid pure black color #000000 with NO paper texture, NO gradient, NO vignette, NO pattern, just solid black; do NOT paint cream or ivory paper, do NOT add checkerboard or noise.
+Final image: square 1:1 composition with decorative corners and broken edges centered on a solid pure #000000 background, with a large irregular, cracked gray-white crystal mass in the bottom-right quadrant intruding into the center and blocking about one third of the frame area; no text, no characters; this will later be converted to a transparent PNG by removing the black background based on brightness.
