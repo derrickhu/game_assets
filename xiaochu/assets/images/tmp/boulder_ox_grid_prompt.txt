@@ -1,0 +1,22 @@
+A single 1:1 square image divided into a 2×2 grid of 4 equal panels on one canvas, solid plain single-color background light gray #E0E0E0 across the entire image. All 4 panels depict the SAME creature species — normal form (top row) and awakened evolved form (bottom row).
+
+TOP-LEFT PANEL — NORMAL FORM AVATAR: half-body bust portrait from head to mid-torso, adorable chibi creature, big head small body ratio 3:1, showing head, neck, chest, shoulders as one connected figure — not a floating head. Centered with clear margin from all edges especially the top. The face retains full animal anatomy: protruding animal snout/muzzle, small cute animal nose, animal mouth, animal proportions — NOT a flat human face. Large sparkling animal eyes with star-shaped highlights. EXPRESSION: warm, happy, cute, charming — a joyful or curious smile, NOT sad, NOT pouting. CRITICAL: The bottom of the character (chest/base, hem, or body edge) must extend FLUSH to the bottom edge of the panel — no floating, no circular cut, no empty gap below. This is the normal base form — young, cute, simple charming accessories.
+
+TOP-RIGHT PANEL — NORMAL FORM FULL BODY: the exact same normal creature in full body view. FRONT-FACING toward the viewer, NOT sideways, NOT profile — body and face both face the camera. Eyes DIRECTLY looking at the viewer/screen. Creative battle-ready stance — pose can be dynamic and varied (leap, charge, defend, etc.), fills 70-80% of panel height. EXPRESSION: focused, alert, battle-ready — fitting combat scene.
+
+BOTTOM-LEFT PANEL — AWAKENED FORM AVATAR: the SAME creature evolved. Same half-body bust framing. EXPRESSION: same cute charming expression — warm, happy, adorable. CRITICAL: The bottom of the character must extend FLUSH to the bottom edge of the panel — no floating, no circular cut, no empty gap below. Awakened upgrades: (1) refined body coloring — richer gradients; (2) body form evolution — e.g. more tails, evolved horns; (3) gold trim, jewel accents. Keep same cute chibi art style.
+
+BOTTOM-RIGHT PANEL — AWAKENED FORM FULL BODY: the awakened creature in full body. FRONT-FACING toward the viewer, NOT sideways, NOT profile. Eyes DIRECTLY looking at the viewer/screen. A DIFFERENT action/pose from top-right — awakened must have a distinct battle stance or motion (e.g. if normal leaps forward, awakened could spin or strike differently). Creative and dynamic, fills 70-80% of panel height.
+
+CRITICAL: Normal and awakened full-body poses (top-right vs bottom-right) must be DIFFERENT actions. Awakened can have body form changes (e.g. 1 tail → 4 tails) and refined body coloring as described. All full-body panels: face camera, eyes at viewer, no side view.
+
+UNIFIED STYLE FOR ALL 4 PANELS: Chinese ink wash painting inspired with soft cel-shading for volume and depth, gentle highlights on rounded surfaces for 3D feel, calligraphy brush-style black ink outlines with varying thickness, rich vibrant colors mixing traditional Chinese pigments with pastel accent tones, fluffy soft texture rendering for fur and fabric, delicate detail work on accessories and patterns, warm inviting atmosphere, Chinese Xianxia mythology aesthetic with kawaii charm, NOT Western fantasy, NOT photorealistic, NOT 3D rendered, clean sharp ink-line edges for easy cutout.
+
+ABSOLUTELY NO TEXT: Draw ZERO words, labels, captions, or panel titles. The image must contain ONLY illustrations — no letters anywhere.
+
+ABSOLUTELY NO TEXT: The image must contain ZERO text — no labels, no captions, no panel titles, no words. Draw ONLY the illustrations.
+
+STRICTLY FORBIDDEN: any text, letters, words, writing, watermark, symbols, seals, labels, captions, panel labels. STRICTLY FORBIDDEN: white outline outside black ink outlines, white border, white edge glow, white halo. Also forbidden: glow effects, blur, soft edges, lens flare. STRICTLY FORBIDDEN: humanoid form, human face, human body, flat human-like face on an animal. STRICTLY FORBIDDEN: any part of the character extending beyond or touching any panel boundary — every character must be fully contained within its panel.
+
+NORMAL FORM DESCRIPTION: Q版小岩牛——换为更萌体型，暖巧克力棕与奶灰皮毛、青金石蓝大眼带星芒、暖金鼻环。角有琥珀金纹，蹄子岩石质感。胸前编绳挂琥珀穗子。配色：巧克力棕、奶灰、青金石蓝、琥珀金、珊瑚粉腮红。表情温和可爱。战斗姿态：前蹄扬起、低头蓄力冲撞、地面裂纹——萌系小山灵。
+AWAKENED FORM UPGRADES: 形态进化：角升级金丝雕花镶琥珀，鼻环华丽金缀琥珀坠。增加：金色石甲胸饰山峰浮雕，挂具镶黄玉。保持萌态、青金石蓝眼、丰富配色。

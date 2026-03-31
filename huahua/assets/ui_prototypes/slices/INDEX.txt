@@ -1,0 +1,20 @@
+花店装修 UI 拆件（原型风格参考 + 英文 prompt 分文件）。成图未进游戏工程。
+
+参考图: ../reference_decoration_panel_style.png（来自当前定稿原型截图）
+模型: gemini-2.5-flash-image，分件均带 --image 参考。
+背景约定: 小件统一要求生成在 #FFF8F0 底上，便于后续抠底。
+
+deco_panel_base_9x16.png     <- prompt_panel_base.txt      9:16 空面板底板（无字无按钮）
+deco_tab_active.png          <- prompt_tab_active.txt      选中态侧栏标签（无字，可带小花图标）
+deco_tab_inactive.png        <- prompt_tab_inactive.txt    未选中态标签（无字，可带叶图标）
+deco_tab_locked.png          <- prompt_tab_locked.txt      锁定态标签（无字，可带锁剪影）
+deco_btn_pill.png            <- prompt_button_pill.txt     无字胶囊按钮
+deco_btn_ribbon.png          <- prompt_button_ribbon.txt   无字粉色状态丝带条
+deco_furniture_frame.png     <- prompt_furniture_frame.txt 空家具卡外框（无家具无字无按钮）
+
+重跑单张示例:
+python3 ~/.cursor/skills/gemini-image-gen/scripts/generate_images.py \
+  --prompt-file ".../slices/prompt_tab_active.txt" \
+  --output ".../slices/deco_tab_active.png" \
+  --model gemini-2.5-flash-image --aspect-ratio 1:1 \
+  --image ".../reference_decoration_panel_style.png"

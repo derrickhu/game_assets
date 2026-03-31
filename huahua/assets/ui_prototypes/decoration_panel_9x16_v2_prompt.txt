@@ -1,0 +1,9 @@
+Vertical mobile game UI design mockup, full frame 9:16 portrait. Flower shop merge game "花店装修" screen.
+
+NOT flat or minimalist. Strong cozy stereoscopic UI depth: layered panels with soft drop shadows, subtle inner shadows on card wells, slightly beveled rounded buttons, embossed cream paper texture, gentle vertical gradients on the main sheet (warm cream top to peachy ivory bottom). Tabs look like raised chips with a tiny highlight edge and soft shadow underneath. Furniture cards feel like thick physical tiles: outer rim slightly darker, inner content inset, icon area with a faint vignette.
+
+Color and decoration: harmonious palette — warm cream, peach blush, soft sage green accents, dusty rose and golden honey trim. Decorative elements: small corner flourishes (tiny flowers or leaves) on the modal header, thin ornamental border line in muted gold along the panel top curve, a slim ribbon or scalloped band under the title row, optional faint floral watermark pattern in the background at very low opacity. Rarity pills are glossy gel capsules with highlight streak, not flat rectangles.
+
+Layout: top ~32% blurred room BG. Bottom sheet modal with generous top corner radius, side margins. Header: icon + "花店装修", progress "已收集 8/35", decorative divider with small petals. Left vertical tabs: selected tab has warm peach fill + soft shadow + golden outline hint. Right: two columns of narrow cards for phone width; mix equipped (checkmark, "使用中" on raised peach banner), locked (desaturated + padlock + pink flower price), unlocked with coral 3D pill button "装备".
+
+Hand-drawn cute kawaii illustration style for furniture icons. No English except numbers. High quality game UI concept art, rich but readable.

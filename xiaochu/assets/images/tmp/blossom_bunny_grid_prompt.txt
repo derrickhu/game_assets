@@ -1,0 +1,18 @@
+A single 1:1 square image divided into a 2×2 grid of 4 equal panels on one canvas, solid plain single-color background light gray #E0E0E0 across the entire image. All 4 panels depict the EXACT SAME creature species with IDENTICAL base body colors, fur/scale patterns, eye color, face shape, and art style — the only difference between normal (top) and awakened (bottom) is the accessories.
+
+TOP-LEFT PANEL — NORMAL FORM AVATAR: half-body bust portrait from head to mid-torso, adorable chibi creature, big head small body ratio 3:1, showing head, neck, chest, shoulders as one connected figure — not a floating head. Centered with clear margin from all edges especially the top. The face retains full animal anatomy: protruding animal snout/muzzle, small cute animal nose, animal mouth, animal proportions — NOT a flat human face. Large sparkling animal eyes with star-shaped highlights. EXPRESSION: warm, happy, cute, charming — a joyful or curious smile, NOT sad, NOT pouting, NOT委屈. This is the normal base form — young, cute, simple charming accessories.
+
+TOP-RIGHT PANEL — NORMAL FORM FULL BODY: the exact same normal creature in full body view, front-facing, cute battle-ready stance, fills 70-80% of panel height. EXPRESSION: focused, alert, battle-ready — fitting combat scene, determined or fierce but still adorable.
+
+BOTTOM-LEFT PANEL — AWAKENED FORM AVATAR: the SAME creature as top row with IDENTICAL base body colors, face, eyes, proportions, and art style. Same half-body bust framing. EXPRESSION: same cute charming expression as top-left — warm, happy, adorable. The ONLY changes: add gold trim to existing accessories, small jewel accents, slightly more ornate patterns. Do NOT change fur/scale color, do NOT change face shape, do NOT change eye color, do NOT change body proportions, do NOT change art style.
+
+BOTTOM-RIGHT PANEL — AWAKENED FORM FULL BODY: the same awakened creature in full body, same pose style as top-right. EXPRESSION: same battle-ready focused expression as top-right.
+
+CRITICAL CONSISTENCY RULE: The creature in ALL 4 panels must be obviously the SAME individual. Same species, same base colors, same markings, same face, same eyes. The awakened form (bottom row) ONLY adds fancier accessories — everything else stays identical to normal form (top row).
+
+UNIFIED STYLE FOR ALL 4 PANELS: Chinese ink wash painting inspired with soft cel-shading for volume and depth, gentle highlights on rounded surfaces for 3D feel, calligraphy brush-style black ink outlines with varying thickness, rich vibrant colors mixing traditional Chinese pigments with pastel accent tones, fluffy soft texture rendering for fur and fabric, delicate detail work on accessories and patterns, warm inviting atmosphere, Chinese Xianxia mythology aesthetic with kawaii charm, NOT Western fantasy, NOT photorealistic, NOT 3D rendered, clean sharp ink-line edges for easy cutout.
+
+STRICTLY FORBIDDEN: any text, letters, words, writing, watermark, symbols, seals, labels, captions. STRICTLY FORBIDDEN: white outline outside black ink outlines, white border, white edge glow, white halo. Also forbidden: glow effects, blur, soft edges, lens flare. STRICTLY FORBIDDEN: humanoid form, human face, human body, flat human-like face on an animal. STRICTLY FORBIDDEN: any part of the character extending beyond or touching any panel boundary — every character must be fully contained within its panel.
+
+NORMAL FORM DESCRIPTION: 毛茸茸的可爱兔子，雪白皮毛配柔软樱花粉内耳，圆滚滚身体搭配棉球尾巴，大大玫瑰粉眼睛闪烁星光，脖间自然缠绕樱花瓣如天然花环，头戴手编小雏菊花冠，脸颊粉红腮红，白色小肉垫，一只耳朵微微耷拉。战斗姿态：后腿站立前爪举起如拳击姿势，耳朵竖直警觉，鼓着腮帮子一脸坚定——虽小但超凶。
+AWAKENED FORM UPGRADES: 在普通形态基础上增加：花冠升级为华丽金花冠饰满粉玉樱花与翠叶，双耳配金耳环垂挂樱花吊饰，增加华美粉金绣花披领，爪子增加金色爪镯带小翠玉铃。其余毛色、体型、眼睛、面部完全不变。

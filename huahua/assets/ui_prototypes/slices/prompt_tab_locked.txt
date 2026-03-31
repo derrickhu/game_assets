@@ -1,0 +1,1 @@
+Style reference attached. Generate ONE isolated vertical pill-shaped category tab in LOCKED disabled state. Desaturated pale gray-brown fill, thick dark brown outline, slightly flatter than active tab. Small simple padlock silhouette icon on the left, no alphabet. NO text. Solid flat hex FFF8F0 background. Centered tab asset only.

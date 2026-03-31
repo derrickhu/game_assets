@@ -1,0 +1,1 @@
+Style reference attached. Generate ONE isolated horizontal ribbon banner element for status strip: dusty rose or pink ribbon with folded 3D ribbon tails on left and right ends, thick brown outline, kawaii game UI style. Middle section completely empty — NO text, NO characters. Solid hex FFF8F0 background. Ribbon centered horizontally, occupies about 75 percent width of canvas.

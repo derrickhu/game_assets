@@ -1,0 +1,1 @@
+Style reference attached. Generate ONE isolated small pill-shaped action button (horizontal rounded rectangle). Soft pink coral gradient fill, thick dark brown outline, cute 3D pressable look with top highlight. Completely blank face — NO text, NO icon inside. Solid hex FFF8F0 background filling canvas. Button centered, roughly 45 percent of canvas width.

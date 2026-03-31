@@ -1,0 +1,21 @@
+A single 1:1 square image divided into a 2×2 grid of 4 equal panels on one canvas, solid plain single-color background light gray #E0E0E0 across the entire image. All 4 panels depict the SAME creature species — normal form (top row) and awakened evolved form (bottom row).
+
+TOP-LEFT PANEL — NORMAL FORM AVATAR: half-body bust portrait from head to mid-torso, adorable chibi creature, big head small body ratio 3:1, showing head, neck, chest, shoulders as one connected figure — not a floating head. Centered with clear margin from all edges especially the top. The face retains full animal anatomy: protruding animal snout/muzzle, small cute animal nose, animal mouth, animal proportions — NOT a flat human face. Large sparkling animal eyes with star-shaped highlights. EXPRESSION: warm, happy, cute, charming — a joyful or curious smile, NOT sad, NOT pouting. CRITICAL: The bottom of the character (chest/base, hem, or body edge) must extend FLUSH to the bottom edge of the panel — no floating, no circular cut, no empty gap below. This is the normal base form — young, cute, simple charming accessories.
+
+TOP-RIGHT PANEL — NORMAL FORM FULL BODY: the exact same normal creature in full body view. FRONT-FACING toward the viewer, NOT sideways, NOT profile — body and face both face the camera. Eyes DIRECTLY looking at the viewer/screen. Creative battle-ready stance — pose can be dynamic and varied (leap, charge, defend, etc.), fills 70-80% of panel height. EXPRESSION: focused, alert, battle-ready — fitting combat scene.
+
+BOTTOM-LEFT PANEL — AWAKENED FORM AVATAR: the SAME creature evolved. Same half-body bust framing. EXPRESSION: same cute charming expression — warm, happy, adorable. CRITICAL: The bottom of the character must extend FLUSH to the bottom edge of the panel — no floating, no circular cut, no empty gap below. Awakened upgrades: (1) refined body coloring — richer gradients; (2) body form evolution — e.g. more tails, evolved horns; (3) gold trim, jewel accents. Keep same cute chibi art style.
+
+BOTTOM-RIGHT PANEL — AWAKENED FORM FULL BODY: the awakened creature in full body. FRONT-FACING toward the viewer, NOT sideways, NOT profile. Eyes DIRECTLY looking at the viewer/screen. A DIFFERENT action/pose from top-right — awakened must have a distinct battle stance or motion (e.g. if normal leaps forward, awakened could spin or strike differently). Creative and dynamic, fills 70-80% of panel height.
+
+CRITICAL: Normal and awakened full-body poses (top-right vs bottom-right) must be DIFFERENT actions. Awakened can have body form changes (e.g. 1 tail → 4 tails) and refined body coloring as described. All full-body panels: face camera, eyes at viewer, no side view.
+
+UNIFIED STYLE FOR ALL 4 PANELS: Chinese ink wash painting inspired with soft cel-shading for volume and depth, gentle highlights on rounded surfaces for 3D feel, calligraphy brush-style black ink outlines with varying thickness, rich vibrant colors mixing traditional Chinese pigments with pastel accent tones, fluffy soft texture rendering for fur and fabric, delicate detail work on accessories and patterns, warm inviting atmosphere, Chinese Xianxia mythology aesthetic with kawaii charm, NOT Western fantasy, NOT photorealistic, NOT 3D rendered, clean sharp ink-line edges for easy cutout.
+
+STRICTLY FORBIDDEN: any text, letters, words, writing, watermark, symbols, seals, labels, captions. STRICTLY FORBIDDEN: white outline outside black ink outlines, white border, white edge glow, white halo. Also forbidden: glow effects, blur, soft edges, lens flare. STRICTLY FORBIDDEN: humanoid form, human face, human body, flat human-like face on an animal. STRICTLY FORBIDDEN: any part of the character extending beyond or touching any panel boundary — every character must be fully contained within its panel.
+
+NORMAL FORM DESCRIPTION: 纯水母形态，无动物头、无拟人面部、无眼睛无嘴巴。真实水母：透明伞盖呈薰衣草紫与珍珠白，边缘虹彩流光，丝缎般触须带淡蓝渐变，体内粉蓝光芯如月光。伞顶小珍珠花饰，触须尖端发光珠串。Q版圆润比例，通过色彩与伞盖弧度表现灵动可爱。战斗姿态：伞盖张开触须伸展——水中梦幻灯笼。
+AWAKENED FORM UPGRADES: 形态进化：触须增多如金银丝缎，伞盖更大极光色边缘。增加：金珍珠冠饰、触须末端金色星形吊坠、伞盖金色蕾丝纹。配色更饱满。保持纯水母形态，无动物头。
+
+
+CRITICAL OVERRIDE FOR JELLYFISH: IGNORE animal face instructions. Draw PURE jellyfish — bell/umbrella, tentacles. NO face, NO eyes, NO mouth, NO human/animal head. Cute Q版 through colors and bell shape only.

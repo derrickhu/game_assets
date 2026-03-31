@@ -1,0 +1,13 @@
+Vertical mobile game UI mockup, strict 9:16 full frame portrait. Narrow phone screen width feel (single column friendly), NOT widescreen or tablet.
+
+Full-screen composition: top ~35% shows softly blurred flower shop room background (green dot wallpaper, wood). Bottom ~65% is one large cream rounded-top modal panel (one continuous card), same width as phone with small side margins (16px), so the panel feels narrow and tall.
+
+Inside the modal:
+Header row: left icon + Chinese title "花店装修", right "已收集 8/35", small X close.
+Thin divider.
+Left column narrow vertical tabs (~22% of panel width): 房间风格, 花架 (selected peach highlight), 桌台, 灯具, 摆件, 墙饰, 庭院 — stacked, rounded tab buttons.
+Right area (~78% width): ONE column of furniture cards only (not two wide columns) OR two very narrow columns that still fit narrow phone — prefer 2 narrow cards per row with small gaps so total panel reads as phone portrait.
+
+Each card: rarity pill top-left (gray 普通 / green 精良 / blue 稀有 / orange 限定), checkmark top-right if equipped, center cute hand-drawn furniture icon, name + gray subtitle, bottom either "使用中" peach bar or lock + pink flower price.
+
+Soft pastel cozy kawaii hand-drawn game UI, rounded corners everywhere, warm beige and peach, no photorealism, no English labels except numbers.
