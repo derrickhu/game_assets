@@ -1,0 +1,18 @@
+Create a 5-column character sprite sheet for a mobile Chinese fantasy match-3 RPG.
+
+Subject: five attribute variants of the same high-defense, low-HP trial guard monster. Each cell contains one full-body chibi armored turtle/armored beast guardian, centered, clear thick outline, transparent-looking or plain light background.
+
+Layout: exactly 5 equal vertical columns, one row, no labels.
+Order from left to right:
+1. Metal: mirror-gold armored turtle beast, sharp bronze plates, pale sword-light glow.
+2. Wood: vine-shell turtle beast, living roots and green jade cracks, soft leaf glow.
+3. Water: icy shell turtle beast, blue crystal armor, cold mist and wave markings.
+4. Fire: molten shell turtle beast, lava cracks, ember horns, red-orange glow.
+5. Earth: basalt stone-shell turtle beast, heavy rock plates, ochre and jade glow.
+
+Style requirements:
+- Match existing cute tower boss sprites: 2D cartoon game art, compact chibi proportions, strong silhouette.
+- Full body visible in each cell, no cropping, readable at small mobile size.
+- No realistic photo, no tall human body, no complex background.
+
+NO TEXT, no labels, no captions, no writing anywhere, no UI, no logo, no watermark.

@@ -1,0 +1,20 @@
+Create a 5-column character sprite sheet for a mobile Chinese fantasy match-3 RPG.
+
+Subject: five attribute variants of the same pet-sealing final trial boss. Each cell contains one full-body chibi horned beast general / seal monster, centered, clear thick outline, transparent-looking or plain light background.
+
+Layout: exactly 5 equal vertical columns, one row, no labels.
+Order from left to right:
+1. Metal: golden horned seal beast, bronze armor, blade talismans and circular seal compass.
+2. Wood: green vine seal beast, wooden mask, leaf talismans and root chains.
+3. Water: blue aquatic seal beast, wave armor, ice talismans and water chains.
+4. Fire: red flame seal beast, ember armor, burning talismans and fire chains.
+5. Earth: stone horned seal beast, heavy rock armor, ochre talismans and earth chains.
+
+Style requirements:
+- Match existing cute tower boss sprites: 2D cartoon game art, compact chibi proportions, strong silhouette.
+- Full body visible in each cell, no cropping, readable at small mobile size.
+- Monster general, not a realistic human warrior.
+- Pet-sealing identity must be clear through talisman chains and a magic seal ring.
+- No complex background.
+
+NO TEXT, no labels, no captions, no writing anywhere, no UI, no logo, no watermark.

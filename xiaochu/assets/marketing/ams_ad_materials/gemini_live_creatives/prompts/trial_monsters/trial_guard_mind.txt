@@ -1,0 +1,13 @@
+Create a 1:1 mobile game enemy portrait for a Chinese fantasy match-3 RPG.
+
+Monster: "定魂幻狐·无惑", a calm fox spirit immune to stun and freeze.
+Visual goals:
+- Stun-immune identity: serene fox face, third-eye soul sigil, floating talismans forming a warding ring.
+- Agile but not tanky: slender body, light robes, sharp expression, elegant movement.
+- Five-elements fantasy style, premium 2D game art, readable on a small mobile battle screen.
+- Front three-quarter view, full body centered, strong silhouette, dramatic rim light.
+- Palette: moon white, violet soul light, pale blue warding runes, small gold accents.
+- No text, no logo, no UI, no watermark.
+- Clean transparent-looking or simple dark vignette background, easy to cut into a game asset.
+
+It should look tricky and strategic, not like a high-HP brute.

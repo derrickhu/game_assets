@@ -1,0 +1,12 @@
+Create a 1:1 mobile game enemy portrait for a Chinese fantasy match-3 RPG.
+
+Monster: "玄甲灵龟·破壁", an ancient black-gold armored spirit turtle guardian.
+Visual goals:
+- High defense, low HP gameplay identity: huge layered basalt shell, jade cracks glowing from within, compact body, not a giant dragon.
+- Five-elements fantasy style, premium 2D game art, readable on a small mobile battle screen.
+- Front three-quarter view, full body centered, strong silhouette, dramatic rim light.
+- Earth/metal palette: dark basalt, bronze-gold armor edges, faint green jade energy.
+- No text, no logo, no UI, no watermark.
+- Clean transparent-looking or simple dark vignette background, easy to cut into a game asset.
+
+Keep it balanced and tactical, not overwhelmingly evil or over-detailed.

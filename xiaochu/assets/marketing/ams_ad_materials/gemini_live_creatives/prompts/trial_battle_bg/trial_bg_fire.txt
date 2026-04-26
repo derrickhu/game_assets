@@ -1,0 +1,14 @@
+Create a seamless-looking 1:1 battle background tile for a mobile Chinese fantasy match-3 RPG.
+
+Theme: Fire element trial arena.
+Final use: it will be resized to exactly 256x256 JPG and stretched across the enemy area, so keep the image readable at small size.
+
+Visual design:
+- Blazing red-gold fire formation, ember clouds, lava cracks, floating flame talismans.
+- Hot trial atmosphere but not too bright, enemy sprite must remain readable.
+- Top and bottom edges should be soft and tile-friendly, no hard border.
+- Center should stay relatively clean for an enemy sprite.
+- Palette: dark crimson, orange flame, gold sparks, smoky black shadows.
+- 2D painted mobile game style, consistent with cute fantasy tower boss backgrounds.
+
+NO TEXT, no labels, no captions, no characters, no UI, no logo, no watermark.

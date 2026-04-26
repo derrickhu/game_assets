@@ -1,0 +1,14 @@
+Create a 1:1 mobile game enemy sprite for a Chinese fantasy match-3 RPG.
+
+Monster: "锁灵妖将·封阵", a cute but threatening chibi monster boss that seals spirit pets.
+Style must match existing mobile game tower bosses:
+- 2D cartoon game sprite, thick clean outline, compact chibi proportions, readable at small size.
+- Full-body front three-quarter view, centered, strong silhouette, no realistic human anatomy.
+- Looks like a monster general rather than a human: horned mask face, small beast body, clawed hands, tail, floating talisman chains.
+- Pet-sealing identity: golden paper talismans, a circular sealing compass, purple-blue binding aura around its claws.
+- Final-floor boss presence but not overly detailed; simple shapes, clear outline, expressive face.
+- Palette: indigo armor plates, warm gold talismans, cyan-purple magic.
+- No text, no logo, no UI, no watermark.
+- Plain light gray or transparent-looking background only, easy to remove cleanly.
+
+Avoid realistic illustration style. Avoid tall human warrior. Avoid dark complex background.

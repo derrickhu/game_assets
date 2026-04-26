@@ -1,0 +1,14 @@
+Create a seamless-looking 1:1 battle background tile for a mobile Chinese fantasy match-3 RPG.
+
+Theme: Metal element trial arena.
+Final use: it will be resized to exactly 256x256 JPG and stretched across the enemy area, so keep the image readable at small size.
+
+Visual design:
+- Ancient golden-metal formation platform, bronze weapon silhouettes, floating sharp sword light.
+- Celestial trial atmosphere, not a room, not realistic photo.
+- Top and bottom edges should be soft and tile-friendly, no hard border.
+- Center should stay relatively clean for an enemy sprite.
+- Palette: dark blue-black shadows, gold, bronze, pale white metal light.
+- 2D painted mobile game style, consistent with cute fantasy tower boss backgrounds.
+
+NO TEXT, no labels, no captions, no characters, no UI, no logo, no watermark.

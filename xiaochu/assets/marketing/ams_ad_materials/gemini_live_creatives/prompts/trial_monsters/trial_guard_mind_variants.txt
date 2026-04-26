@@ -1,0 +1,19 @@
+Create a 5-column character sprite sheet for a mobile Chinese fantasy match-3 RPG.
+
+Subject: five attribute variants of the same stun-immune trial illusion fox/spirit monster. Each cell contains one full-body chibi fox spirit or small spirit beast, centered, clear thick outline, transparent-looking or plain light background.
+
+Layout: exactly 5 equal vertical columns, one row, no labels.
+Order from left to right:
+1. Metal: white-gold fox spirit with blade-like tails and small floating sword sigils.
+2. Wood: green forest fox spirit with leaf tails, vine talismans, poison mist hints.
+3. Water: blue-white frost fox spirit with ice tails, water ribbons, cold runes.
+4. Fire: red-orange flame fox spirit with ember tails and small fire orbs.
+5. Earth: ochre stone fox spirit with rock mask, dust aura, jade earth sigils.
+
+Style requirements:
+- Match existing cute tower boss sprites: 2D cartoon game art, compact chibi proportions, strong silhouette.
+- Full body visible in each cell, no cropping, readable at small mobile size.
+- Magical but not human; keep fox/spirit monster identity.
+- No realistic photo, no tall human body, no complex background.
+
+NO TEXT, no labels, no captions, no writing anywhere, no UI, no logo, no watermark.
