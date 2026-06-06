@@ -1,0 +1,30 @@
+Create one square 1:1 promotional image for a match-3 puzzle RPG, designed as a WeChat Moments 3x3 grid image that will be sliced into 9 equal squares.
+
+Reference usage:
+- Learn the neat puzzle-ad clarity from the first two references.
+- Learn the orb-board game subject from the third reference.
+- Redesign everything into a more beautiful promotional illustration.
+
+Main concept:
+"Can you find the best move?" A single elegant match-3 board seen from straight above. It contains rows of glossy fantasy elemental orbs on a high-quality parchment-and-jade board. A clear golden solution path winds through the orbs from upper-left to lower-right, with elegant curved arrows, combo sparks, and a few highlighted swap points. It should immediately communicate a puzzle challenge.
+
+Composition:
+- One continuous board, not separate panels.
+- Very neat grid, big readable orbs, satisfying spacing.
+- The full square should be visually balanced after slicing into 3x3.
+- Use 5 elemental orb styles: blue water waves, red fire flame, green wood leaf/wind, gold metal pattern, brown earth mountain, plus pink heart.
+- Add refined magical glow, small combo bursts, treasure sparkle, and subtle monster silhouettes behind some tiles.
+- Make the path readable but not cluttered.
+
+Style:
+Bright, cute, polished casual puzzle-game advertising art. High-quality 2D game asset illustration, premium orb design, soft fantasy lighting.
+
+Text restrictions:
+NO text, NO Chinese, NO English, NO letters, NO numbers, NO watermark, NO phone UI.
+
+Avoid:
+No raw screenshot look.
+No dense messy maze.
+No thick ugly arrows.
+No separate 3x3 framed cards.
+No copied animals from references.

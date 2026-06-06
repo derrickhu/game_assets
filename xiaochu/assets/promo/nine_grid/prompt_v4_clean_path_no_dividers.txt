@@ -1,0 +1,35 @@
+Create one square 1:1 promotional image for a fantasy match-3 RPG puzzle game. It will be sliced into 9 equal square images later, but the image itself must NOT contain 3x3 divider lines.
+
+Reference usage:
+- Use the first two references for social puzzle-ad neatness.
+- Use the third reference for the match-3 orb board concept.
+- Redesign the art into a beautiful promotional board, not a screenshot.
+
+Main visual:
+A single continuous premium match-3 board fills the square. Large glossy elemental orbs sit on an elegant fantasy board background. A clean golden solution route snakes through the orbs, with a few tasteful arrowheads and sparkle points. It should communicate "find the best move" visually, but without any written words.
+
+Very important:
+- NO 3x3 divider lines.
+- NO white grid lines dividing the image into nine parts.
+- NO separate panels.
+- It must look like one continuous board that can later be sliced externally.
+
+Composition:
+- Straight top-down view.
+- Beautiful 6x6 or 7x7 orb board, aligned and tidy.
+- Premium redesigned orbs: blue water waves, red fire flame, green wood leaf, gold metal crest, brown earth mountain, pink heart.
+- A continuous puzzle path across the board, elegant and readable.
+- Subtle fantasy border, jade, gold, stone, magical glow.
+- Each future crop should still contain interesting orbs and path details.
+
+Style:
+High-quality casual mobile game ad, polished 2D fantasy art, bright and clean, satisfying puzzle board.
+
+Text restrictions:
+NO text, NO Chinese, NO English, NO letters, NO numbers, NO labels, NO watermark, NO phone UI.
+
+Avoid:
+No screenshot look.
+No messy maze.
+No thick ugly arrows.
+No internal 3x3 frame lines.

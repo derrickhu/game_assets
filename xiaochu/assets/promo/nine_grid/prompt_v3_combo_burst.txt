@@ -1,0 +1,29 @@
+Create one square 1:1 image for a mobile fantasy match-3 RPG advertisement, intended to be split into a 3x3 grid for social media.
+
+Reference usage:
+- Use the first two references for the clean and addictive puzzle-ad feeling.
+- Use the third reference for the game's orb match board.
+- Make a new, more attractive, more artistic version.
+
+Main visual:
+A dramatic high-quality match-3 board during a huge combo. The board is a continuous square grid filled with beautiful redesigned elemental orbs. Several orbs are glowing and bursting into magical effects, as if a big chain reaction is happening. The board still remains orderly and readable, with all pieces aligned like a satisfying puzzle grid.
+
+Composition:
+- One single continuous board across the whole square.
+- Suitable for slicing into 9 equal square tiles; each tile should contain interesting orb details, but the complete image should feel unified.
+- Add a central sweeping combo wave, spark trails, and soft radial light.
+- Include tiny fantasy monster icons or boss shadows at the edges to imply RPG battle, but do not overpower the board.
+- Use premium jewel orbs and a better board background than the game screenshot: dark mystical stone, jade trims, gold accents, soft smoke.
+
+Color:
+Rich blue water, red fire, green wood, gold metal, brown earth, pink heart. Vibrant but clean.
+
+Text restrictions:
+NO text, NO Chinese characters, NO English letters, NO numbers, NO labels, NO watermark, NO phone frame.
+
+Avoid:
+Do not make it look like a screenshot.
+Do not create 9 separate panels.
+Do not make the image chaotic.
+Do not add large captions.
+Do not use cheap flat icons.

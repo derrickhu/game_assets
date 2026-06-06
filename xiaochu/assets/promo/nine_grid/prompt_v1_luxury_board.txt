@@ -1,0 +1,29 @@
+Create one square 1:1 promotional image for a mobile match-3 RPG puzzle game, intended to be sliced into 9 equal square images for a WeChat Moments 3x3 grid post.
+
+Reference usage:
+- Use the first two references only for the neat social-ad grid feeling and strong puzzle readability.
+- Use the third reference only for the game's match-3 orb-board concept.
+- Do NOT copy the screenshot directly. Redesign the board, orbs, background, and visual style to look more beautiful and premium.
+
+Main visual:
+A single continuous luxurious fantasy puzzle board fills the entire square. It should look like one big polished board, not nine separate mini posters. Use a clean 6x6 or 7x7 grid of large glossy elemental orbs. The orbs are redesigned as premium jewel-like game pieces with clear symbols: water, fire, wood, metal, earth, and heart. The board background is elegant dark jade, carved stone, and gold trim, much prettier than a raw screenshot.
+
+Composition:
+- Very orderly square board, aligned, satisfying, phone-ad friendly.
+- The whole image remains readable when divided into a 3x3 grid.
+- Add a continuous glowing route/path across the board, with subtle arrows and sparkle points showing puzzle movement.
+- Include a few tiny cute monster silhouettes or treasure motifs around the board edge, but keep the orb board as the main subject.
+- High contrast, bright jewel colors, magical glow, clean shadows.
+
+Style:
+Premium casual mobile game ad, fantasy oriental UI, polished 2D illustration, glossy orbs, crisp board grid, clean and beautiful.
+
+Text restrictions:
+NO text, NO Chinese characters, NO English letters, NO numbers, NO UI labels, NO watermark, NO phone frame.
+
+Avoid:
+Do not create nine isolated framed panels.
+Do not make the image look like a plain screenshot.
+Do not make messy tiny details.
+Do not use thick black arrows everywhere.
+Do not add captions.
