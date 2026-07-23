@@ -7,6 +7,7 @@
 | 项目 | 目录 | 说明 |
 |------|------|------|
 | 消除 (xiaochu) | `xiaochu/` | 消除类游戏美术资源 |
+| 灵宠消消塔 2 (xiaochu2) | `xiaochu2/` | 塔防消除 2 美术资源（raw/split/nobg/final） |
 
 ## 快速开始
 
@@ -52,6 +53,12 @@ game_assets/
 │       ├── pets/           # 宠物
 │       ├── share/          # 分享相关
 │       └── ui/             # 界面元素
+├── xiaochu2/
+│   └── assets/
+│       ├── raw/            # AI 原图（含 spirit_batch 等）
+│       ├── split/          # 宫格切开
+│       ├── nobg/           # 去背后
+│       └── final/          # 入库前成品
 └── ...
 ```
 
