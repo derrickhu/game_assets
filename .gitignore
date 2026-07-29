@@ -32,3 +32,11 @@ _wip/
 # ============================================================
 *.psb~
 *-journal
+
+# 本地工具缓存 / 临时切图 / 备份（勿入库）
+**/.numba_cache/
+**/bak_*/
+**/split_*_tmp/
+**/split_*_tmp2/
+*_old_bak.png
+*_bak_before_unify
