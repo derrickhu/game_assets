@@ -58,7 +58,8 @@ game_assets/
 │       ├── raw/            # AI 原图（含 spirit_batch 等）
 │       ├── split/          # 宫格切开
 │       ├── nobg/           # 去背后
-│       └── final/          # 入库前成品
+│       ├── final/          # 入库前成品
+│       └── prototypes/     # UI 定稿/迭代原型（勿进运行仓）
 └── ...
 ```
 
