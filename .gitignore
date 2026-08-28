@@ -38,5 +38,10 @@ _wip/
 **/bak_*/
 **/split_*_tmp/
 **/split_*_tmp2/
+**/legacy_tmp/
+**/legacy_tmp_in/
+**/*_tmp/
+**/*_tmp_in/
+tmp/
 *_old_bak.png
 *_bak_before_unify
